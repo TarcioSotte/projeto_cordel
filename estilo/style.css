@@ -32,7 +32,7 @@ header{
 }
 
 header > h1 {
-    padding-top: 50px;
+    padding-top: 0px;
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-size: 10vw; /*10% largura da tela, o certo é usar media query*/
